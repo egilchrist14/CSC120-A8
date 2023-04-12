@@ -53,7 +53,7 @@ public class Wasp implements Contract{
     }
 
     public void rest(){
-        System.out.println("You lie down to rest for a while, but are now vulnerable.");
+        System.out.println("You lie down to rest for a while but are now vulnerable.");
     }
 
     public void undo(){
